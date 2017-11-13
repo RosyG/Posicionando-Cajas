@@ -1,0 +1,50 @@
+#black_square {
+  background: black;
+}
+#blue_square {
+  background: blue;
+}
+#green_square {
+  background: green;
+}
+#purple_square {
+  background: purple;
+
+}
+#red_square {
+  background: red;
+}
+#yellow_square {
+  background: yellow;
+}
+
+.big-square {
+  border: 1px solid black;
+  height: 280px;
+  position: relative;
+  width: 280px;
+}
+
+.medium-square {
+  border: 1px solid blue;
+  height: 140px;
+  position: absolute;
+  width: 140px;
+  left: 70px;
+  top: 70px;
+}
+
+
+.small-square {
+  border: 1px solid red;
+  height: 70px;
+  position: absolute;
+  width: 70px;
+}
+/*MARGENES*/
+.mt-5 {
+  margin-top: 5%;/*Separación entre los cuadros grandes*/
+}
+.mt-10 {
+  margin-left: 10%;
+}
